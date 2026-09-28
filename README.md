@@ -1,1 +1,39 @@
-# NGT-Labs
+
+<div align="center">
+
+# 🛡️ NGT Labs: Network Engineering & Cybersecurity
+*Hands-In, Practical Engineering & Defense Operations*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=120&section=header&text=NGT%20Academy%20Labs&fontSize=32&fontColor=00FF66&animation=fadeIn&fontAlignY=38" width="100%" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active%20Development-00FF66?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Network%20Engineering%20%7C%20Cybersecurity-0052CC?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-NGT%20Academy-blueviolet?style=flat-square&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-success?style=flat-square" />
+</p>
+
+</div>
+
+---
+
+## 🧭 Repository Overview
+
+This repository serves as a centralized directory containing individual hands-on labs completed through **NGT Academy**. The curriculum bridges foundational IT infrastructure with advanced defensive and offensive security operations. 
+
+Each subdirectory functions as an independent project workspace, documenting practical configurations, troubleshooting workflows, network setups, and security hardening methodologies.
+
+---
+
+## 📂 Directory Structure & Lab Modules
+
+```text
+├── 📂 Networking/             # Core Infrastructure & Routing/Switching Labs
+│   ├── 01-Routing-Basics/     # Static and Dynamic Routing configurations
+│   ├── 02-VLANs-Trunking/     # Layer 2 switching, VLAN segmentation, 802.1Q
+│   └── 03-Troubleshooting/    # Network diagnostic and packet flow analysis
+│
+└── 📂 Cybersecurity/          # Defense, Threat Detection & Security Operations
+    ├── 01-System-Hardening/   # Host and OS security configurations
+    ├── 02-Network-Defense/    # Firewall implementation and traffic filtering
+    └── 03-Incident-Response/  # Log analysis, threat hunting, and artifact review

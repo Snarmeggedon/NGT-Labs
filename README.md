@@ -38,8 +38,10 @@ Each subdirectory functions as an independent project workspace, documenting pra
     ├── 01-System-Hardening/   # Host and OS security configurations
     ├── 02-Network-Defense/    # Firewall implementation and traffic filtering
     └── 03-Incident-Response/  # Log analysis, threat hunting, and artifact review
+        └── NCSA-Memory-and-Disk-Forensics/  # Volatility & disk image analysis
 ```
 
 ### 🔗 Lab Links
 
 - [Networking/04-Packet-Tracer-FSNA-SQC](Networking/04-Packet-Tracer-FSNA-SQC/) - Cisco Packet Tracer activity (`.pka`)
+- [Cybersecurity/03-Incident-Response/NCSA-Memory-and-Disk-Forensics](Cybersecurity/03-Incident-Response/NCSA-Memory-and-Disk-Forensics/) - Memory and disk image forensics with Volatility 3

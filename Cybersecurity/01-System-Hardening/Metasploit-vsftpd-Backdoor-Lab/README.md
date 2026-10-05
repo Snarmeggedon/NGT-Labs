@@ -18,6 +18,10 @@ vsFTPd 2.3.4 shipped with a malicious backdoor. Mitigations: patch or replace th
 
 Password hash entries from the target's account file are blacked out in the screenshot.
 
+## Why parts are redacted
+
+The screenshot is included to show the workflow and result, not to publish reusable sensitive data. The hidden section contains password hashes from the lab VM's account file, so it is redacted to keep the portfolio professional and focused on the security lesson rather than on exposed credential material.
+
 ## Skills demonstrated
 
 - Identifying a vulnerable service from its banner

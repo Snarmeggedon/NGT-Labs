@@ -18,6 +18,10 @@ Passive wireless survey from Kali Linux: `sudo airodump-ng wlan0mon` run on a mo
 
 Network names (ESSIDs), BSSIDs and client MAC addresses belong to third-party networks and devices, so they are redacted from the screenshot.
 
+## Why parts are redacted
+
+This screenshot documents the survey technique, but the original capture included identifiers for nearby real-world devices and networks. Those values are hidden so the page demonstrates the lab skill without disclosing other people's network details.
+
 ## Skills demonstrated
 
 - Running a passive wireless capture on a monitor-mode interface

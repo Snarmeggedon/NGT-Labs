@@ -31,9 +31,15 @@ Each subdirectory functions as an independent project workspace, documenting pra
 ├── 📂 Networking/             # Core Infrastructure & Routing/Switching Labs
 │   ├── 01-Routing-Basics/     # Static and Dynamic Routing configurations
 │   ├── 02-VLANs-Trunking/     # Layer 2 switching, VLAN segmentation, 802.1Q
-│   └── 03-Troubleshooting/    # Network diagnostic and packet flow analysis
+│   ├── 03-Troubleshooting/    # Network diagnostic and packet flow analysis
+│   └── 04-Packet-Tracer-FSNA-SQC/  # Cisco Packet Tracer activity (.pka)
 │
 └── 📂 Cybersecurity/          # Defense, Threat Detection & Security Operations
     ├── 01-System-Hardening/   # Host and OS security configurations
     ├── 02-Network-Defense/    # Firewall implementation and traffic filtering
     └── 03-Incident-Response/  # Log analysis, threat hunting, and artifact review
+```
+
+### 🔗 Lab Links
+
+- [Networking/04-Packet-Tracer-FSNA-SQC](Networking/04-Packet-Tracer-FSNA-SQC/) - Cisco Packet Tracer activity (`.pka`)

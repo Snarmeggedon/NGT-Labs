@@ -36,7 +36,9 @@ Each subdirectory functions as an independent project workspace, documenting pra
 │
 └── 📂 Cybersecurity/          # Defense, Threat Detection & Security Operations
     ├── 01-System-Hardening/   # Host and OS security configurations
+    │   └── Metasploit-vsftpd-Backdoor-Lab/  # Redacted lab validation evidence
     ├── 02-Network-Defense/    # Firewall implementation and traffic filtering
+    │   └── Wireless-Recon-airodump-ng/  # Redacted passive wireless survey
     └── 03-Incident-Response/  # Log analysis, threat hunting, and artifact review
         └── NCSA-Memory-and-Disk-Forensics/  # Volatility & disk image analysis
 ```
@@ -44,4 +46,6 @@ Each subdirectory functions as an independent project workspace, documenting pra
 ### 🔗 Lab Links
 
 - [Networking/04-Packet-Tracer-FSNA-SQC](Networking/04-Packet-Tracer-FSNA-SQC/) - Cisco Packet Tracer activity (`.pka`)
+- [Cybersecurity/01-System-Hardening/Metasploit-vsftpd-Backdoor-Lab](Cybersecurity/01-System-Hardening/Metasploit-vsftpd-Backdoor-Lab/) - Redacted legacy FTP vulnerability validation on a lab VM
+- [Cybersecurity/02-Network-Defense/Wireless-Recon-airodump-ng](Cybersecurity/02-Network-Defense/Wireless-Recon-airodump-ng/) - Redacted passive wireless survey with airodump-ng
 - [Cybersecurity/03-Incident-Response/NCSA-Memory-and-Disk-Forensics](Cybersecurity/03-Incident-Response/NCSA-Memory-and-Disk-Forensics/) - Memory and disk image forensics with Volatility 3
